@@ -1,4 +1,4 @@
-name: Build ana Test
+name: Build and Test
 
 on:
   push:
